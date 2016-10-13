@@ -1,4 +1,4 @@
-# lonelytable
+# Lonely Table
 
 Lonely Table is a concept application for booking tables at various venues. There is a twist to this booking procedure; however, because this project is currently in development, I will not discuss the details. 
 
